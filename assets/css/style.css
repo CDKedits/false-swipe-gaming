@@ -1,0 +1,19 @@
+body {
+  background-color: #312940
+}
+
+.bg-light {
+  background: #8d82a0 !important;
+}
+
+.navbar-light {
+  color: white;
+}
+
+.dropdown-item:hover {
+  background-color: #8d82a0;
+}
+
+.dropdown-item:active {
+  color: #2e4148
+}
